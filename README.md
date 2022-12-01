@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Thanks for visiting, if you stumbled here by accident, not all those who wander a lost, you're welcome contact me via [LinkedIn](https://www.linkedin.com/in/prestonbourne/) or [check out my work](https://www.prestonbuildsui.io/)
+Thanks for visiting, if you stumbled here by accident, not all those who wander are lost, you're welcome contact me via [LinkedIn](https://www.linkedin.com/in/prestonbourne/) or [check out my work](https://www.prestonbuildsui.io/)
 
-- 🔭 I’m currently employed [Demandbase](https://www.demandbase.com/) a game changing company in AdTech but I'm a Design && Technology student at [Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
-- 💬 I like to talk about synthesizing Design and Development aka DesignOps😉
-- 🧠 The project I'm exciting about right now is rebuilding my personal website in Next.js to leverage the power of Static site generation in React.
+- 🔭 I’m currently interning [@Demandbase](https://www.demandbase.com/) a game changing company in AdTech and I'm a Design && Technology student [@Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
+- ❤️ I like to talk about synthesizing Design and Development and DesignOps
+- 🧠 The project I'm excited about right now is rebuilding my personal website in Next.js to leverage the power of Static site generation in React.
 
 
 
