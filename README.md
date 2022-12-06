@@ -4,7 +4,7 @@ Thanks for visiting, if you stumbled here by accident, not all those who wander 
 
 - 🔭 I’m currently interning [@Demandbase](https://www.demandbase.com/) a game changing company in AdTech and I'm a Design && Technology student [@Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
 - ❤️ I like to talk about synthesizing Design and Development and DesignOps
-- 🧠 The project I'm excited about right now is rebuilding my personal website in Next.js to leverage the power of Static site generation in React.
+- 🧠 The project I'm excited about right now is rebuilding my personal website in Next.js to leverage Static Site generation.
 
 
 
