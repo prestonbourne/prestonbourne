@@ -2,7 +2,7 @@
 
 Thanks for visiting, if you stumbled here by accident, not all those who wander are lost, you're welcome contact me via [LinkedIn](https://www.linkedin.com/in/prestonbourne/) or [check out my work](https://www.prestonbuildsui.io/)
 
-- 🔭 Next Summer I'll be interning [@HashiCorp](https://www.hashicorp.com/)
+- 🔭 Interning [@HashiCorp](https://www.hashicorp.com/)
 - 🧠 Currently, I'm a Design && Technology student [@Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
 - 🕺🏽 I'm a huge nerd when it comes to Frontend I could talk about state management, and UI for hours.
 
