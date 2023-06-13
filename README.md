@@ -4,9 +4,6 @@ Thanks for visiting, if you stumbled here by accident, not all those who wander 
 
 - 🔭 Interning [@HashiCorp](https://www.hashicorp.com/)
 - 🧠 Currently, I'm a Design && Technology student [@Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
-- 🕺🏽 I'm a huge nerd when it comes to Frontend I could talk about state management, and UI for hours.
-
-
 
 <!--
 **Saintpreston/Saintpreston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
