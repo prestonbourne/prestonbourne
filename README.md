@@ -1,21 +1,16 @@
-### Hi there 👋
+Preston Bourne
+===============================
 
-Thanks for visiting, if you stumbled here by accident, not all those who wander are lost, you're welcome contact me via [LinkedIn](https://www.linkedin.com/in/prestonbourne/) or [check out my work](https://www.prestonbuildsui.io/)
+Developer with three years of experience in building Web Applications and libraries with Typescript, Node, and React. I've also built services and CLIs with Rust and Go in the past year. I love working with people equally as passionate.
 
-- 🔭 Interning [@HashiCorp](https://www.hashicorp.com/)
-- 🧠 Currently, I'm a Design && Technology student [@Parsons](https://www.newschool.edu/parsons/bfa-design-technology/)
+### Find me online
 
-<!--
-**Saintpreston/Saintpreston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Personal Site](https://prestonbourne.dev/)
 
-Here are some ideas to get you started:
+<a href="https://www.twitter.com/prestonbourne_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/prestonbourne_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building [Swingset](https://github.com/hashicorp/swingset) 🚀
+
+
