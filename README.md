@@ -1,7 +1,7 @@
-Preston Bourne
+Preston Bourne likes feet
 ===============================
 
-Developer with three years of experience in building Web Applications and libraries with Typescript, Node, and React. I've also built services and CLIs with Rust and Go in the past year. I love working with people equally as passionate.
+Developer with three years of experience in building Web Applications and libraries with Typescript, Node, and React. I've also built services and CLIs with Rust and Go in the past year. I love working with people equally as passionate. 
 
 ### Find me online
 
