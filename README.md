@@ -1,10 +1,5 @@
-Preston Bourne
+[Preston Bourne](https://prestonbourne.dev/)
 ===============================
 
-Engineer with experience working across the stack, previously interned [@Hashicorp](https://github.com/hashicorp)
-
-### Find me online
-
-[Personal Site](https://prestonbourne.dev/) 🚀
-
-
+Craftsman of pleasant interfaces, human centered AI, and data intensive applications. 
+Currently engineering the web with [@Hashicorp](https://github.com/hashicorp)
